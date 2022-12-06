@@ -6,7 +6,7 @@
 * __Budylina Elizaveta__
 
 * _I'm trainee frontend developer from Kazan, study in School 21. I'm very passionate about this direction and I want to develop further in it._
-* __contacts:__
+* __Contacts:__
     * num: +7 910 101 40 02
     * tg: @maxiin_bud
     * ds: williamc#7682
@@ -16,10 +16,10 @@
 
 ## Programming and other skills
 
-* code example:
+* __Code example:__
     * `const multiply = (a, b) => a * b;`
 
-* projects:
+* __My projects:__
     * "Hakaton "Полюс Золота": https://github.com/WilliamsCommando/hakaton_polus_zolota
     * library matrix in C: https://github.com/WilliamsCommando/s21_matrix
 * _I have no work experience._
