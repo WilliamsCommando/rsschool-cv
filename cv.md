@@ -5,7 +5,7 @@
 * __Budylina Elizaveta__
 
 * _I'm trainee frontend developer from Kazan, study in School 21. I'm very passionate about this direction and I want to develop further in it._
-* __ontacts:__
+* __Contacts:__
     * num: +7 910 101 40 02
     * tg: @maxiin_bud
     * ds: williamc#7682
