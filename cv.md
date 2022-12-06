@@ -1,6 +1,6 @@
 ## Personal information
 
-<img src="./avatar.jpeg" alt="avatar" width="180"/>
+![avatar](./avatar.jpeg?width="180")
 
 * __Budylina Elizaveta__
 
