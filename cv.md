@@ -4,8 +4,13 @@
 <img src="./avatar.jpeg" alt="avatar" width="180"/>
 
 * __Budylina Elizaveta__
-* __+7 910 101 40 02__
+
 * _I'm trainee frontend developer from Kazan, study in School 21. I'm very passionate about this direction and I want to develop further in it._
+* __contacts:__
+    * num: +7 910 101 40 02
+    * tg: @maxiin_bud
+    * ds: williamc#7682
+
 
 </div>
 
