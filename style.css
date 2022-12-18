@@ -6,10 +6,6 @@ html {
   scroll-behavior: smooth; 
 }
 
-main {
-  display: block;
-}
-
 body {
   position: relative;
   display: flex;
@@ -146,8 +142,6 @@ li {
   height: 200px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
-  filter: grayscale(0.2) brightness(1.05);
   transition: .3s;
 }
 
