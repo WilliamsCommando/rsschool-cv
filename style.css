@@ -1,0 +1,186 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth; 
+}
+
+body {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
+  background-color: #202020;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+header {
+  background-color: #FFD100;
+}
+
+footer {
+  width: 100%;
+  padding: 20px;
+  background-color: #333533;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+}
+
+li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+
+.container {
+  max-width: 1700px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333533;
+  transition: .3s;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.section {
+  width: calc(50% - 20px);
+  padding: 10px;
+  padding-bottom: 35px;
+  color: #D6D6D6;
+  border-bottom: 1px solid #D6D6D6;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.section-title {
+  font-size: 28px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #FFEE32;
+}
+
+.section-profile {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px 30px 35px;
+  border-bottom: 5px solid #D6D6D6;
+}
+
+.section-profile-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.section-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.section-item {
+  position: relative;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  padding-left: 30px;
+  flex-wrap: wrap;
+}
+
+.main-title {
+  position: relative;
+  padding: 0;
+  margin-bottom: 20px;
+  color: #FFEE32;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 10px;
+  line-height: 50px;
+  word-spacing: 3px;
+}
+
+.section-profile-logo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: .3s;
+}
+
+.pre {
+  padding: 0;
+  margin: 0;
+  font-size: 23px;
+}
+
+.section-projects:link {
+  color: #497DDD; 
+}
+.section-projects:visited {
+  color: #EF7D55;
+}
+.section-projects:hover {
+  color: #154088; 
+}
+.section-projects:active {
+  color: #497DDD; 
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url(./assets/svg/rss.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.github {
+  color: #FFD100;
+  text-decoration: none;
+  line-height: 45px;
+  font-size: 20px;
+}
+
+.footer-year {
+  font-weight: bolder;
+  font-size: 20px;
+}
