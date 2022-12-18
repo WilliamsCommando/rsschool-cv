@@ -123,6 +123,7 @@ li {
   margin-bottom: 10px;
   padding: 0;
   padding-left: 30px;
+  flex-wrap: wrap;
 }
 
 .main-title {
@@ -148,7 +149,7 @@ li {
 .pre {
   padding: 0;
   margin: 0;
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .section-projects:link {
